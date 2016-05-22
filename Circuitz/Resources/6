@@ -1,0 +1,11 @@
+LeftSide
+1,Single,isLatched
+3,Single,isLatched
+4,Single,isLatched
+6,Single,isLatched
+7,Single,isLatched
+9,Single,isLatched
+11,Single,isLatched
+RightSide
+0,SingleInputTwoOutput,
+8,SingleInputTwoOutput,

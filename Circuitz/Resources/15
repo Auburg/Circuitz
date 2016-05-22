@@ -1,0 +1,6 @@
+LeftSide
+1,Single,isLatched,FlashSlow,
+3,Single,isLatched,FlashSlow,
+5,Single,isLatched,FlashSlow,
+6,Single,isMutex,
+RightSide

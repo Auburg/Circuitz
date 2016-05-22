@@ -1,0 +1,10 @@
+LeftSide
+0,Single,isMutex
+1,Single,isLatched
+2,TwoInputSingleOutput,
+6,Single,isMutex
+10,Single,isMutex
+RightSide
+0,Single,isBoosted
+6,Single,isLatched
+8,SingleInputTwoOutput,

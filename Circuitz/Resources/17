@@ -1,0 +1,12 @@
+LeftSide
+1,Single,FlashSlow,
+3,Single,FlashSlow,
+5,Single,FlashSlow,
+9,Single,isInverted,
+10,Single,isLatched,
+11,Single,isBoosted,
+RightSide
+1,SingleInputTwoOutput,
+7,Single,isBoosted,
+10,Single,isBoosted,
+11,Single,isMutex,

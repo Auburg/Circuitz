@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cl</key>
+	<string>0</string>
+	<key>MaxAlternateCellLimit</key>
+	<integer>8</integer>
+	<key>MaxRightCellLimit</key>
+	<integer>18</integer>
+	<key>MaxLeftCellLimit</key>
+	<integer>30</integer>
+	<key>HardAILevelStart</key>
+	<integer>12</integer>
+</dict>
+</plist>

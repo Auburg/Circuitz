@@ -1,0 +1,7 @@
+LeftSide
+1,SingleInputTwoOutput,
+5,Single,isBoosted
+9,TwoInputSingleOutput,
+RightSide
+0,TwoInputSingleOutput,
+4,SingleInputTwoOutput,

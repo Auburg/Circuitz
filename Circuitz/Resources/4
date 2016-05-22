@@ -1,0 +1,13 @@
+LeftSide
+1,SingleInputTwoOutput,
+5,Single,isBoosted
+6,Single,isBoosted
+7,Single,isLatched
+8,TwoInputSingleOutput,
+RightSide
+0,Single,isInverted
+2,Single,isBoosted
+3,Single,isLatched
+4,SingleInputTwoOutput,
+9,Single,isLatched
+10,Single,isBoosted
